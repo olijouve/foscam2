@@ -8,4 +8,4 @@ https://github.com/viswa-swami/python-foscam/pull/3
 
 Off course this component will be pushed back to Home assistant repository when libpyfoscam will be ready for it.
 
-In the meantime and for testing purposes, the python libpyfoscam module is embedded.
+In the meantime and for testing purposes, the modified python libpyfoscam module is embedded.
